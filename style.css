@@ -1,0 +1,208 @@
+@font-face {
+  font-family: "KBIZ한마음명조_R";
+  src: url("./src/fonts/KBIZ한마음명조_R.ttf");
+}
+@font-face {
+  font-family: "NanumGothic";
+  src: url("./src/fonts/NanumGothic.ttf");
+}
+@font-face {
+  font-family: "NanumGothicB";
+  src: url("./src/fonts/NanumGothicB.ttf");
+}
+
+.body {
+  font-family: "NanumGothic";
+  line-height: 30px;
+  max-width: 775px;
+  margin: 0 auto;
+}
+
+.cv-header {
+  margin: 20px;
+  text-align: center;
+  padding-bottom: 10px;
+  margin-top: 30px;
+  line-height: 15px;
+}
+
+.name {
+  font-weight: bold;
+  font-size: 24px;
+}
+
+.job {
+  font-size: 15px;
+}
+
+li {
+  margin-bottom: -30px;
+  margin-left: -28px;
+  /* line-height: 0px; */
+}
+ul {
+  margin-top: 0px;
+  font-size: 14px;
+}
+.info {
+  font-size: 12px;
+}
+
+.main-container {
+  align-items: center;
+  justify-content: center;
+}
+
+.row-container {
+  margin: 0 auto;
+  width: 90%;
+  min-height: 5vh;
+  display: flex;
+}
+
+.date {
+  width: 25%;
+}
+
+.content {
+  width: 75%;
+}
+
+.title {
+  font-size: 17px;
+}
+
+.line {
+  margin: 0 auto;
+  height: 2px;
+  width: 90%;
+  background-color: black;
+  margin-bottom: 24px;
+  margin-top: 10px;
+  opacity: 0.5;
+}
+
+.titleBox {
+  font-size: 20px;
+  width: 90%;
+  margin-left: 5%;
+  font-weight: 1000;
+}
+
+.foot {
+  padding-top: 110px;
+  text-align: center;
+  line-height: 15px;
+  margin-bottom: 30px;
+  font-size: 12px;
+}
+
+.projectHolder {
+  width: 90%;
+  /* background-color: aliceblue; */
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+  margin: 20px auto;
+}
+
+.projectHolder > .projectCard:hover {
+  transform: translate(3px, 3px);
+  box-shadow: 0px 0px 0px 0px rgb(190, 190, 190);
+}
+
+.projectCard {
+  width: 200px;
+  height: 200px;
+  /* background: rgb(245, 242, 210); */
+  border-radius: 30px;
+  border: 0.5px solid rgb(190, 190, 190);
+  box-shadow: 2px 2px 2px 1px rgba(190, 190, 190, 0.7);
+  cursor: pointer;
+}
+.projectCard2 {
+  width: 200px;
+  height: 200px;
+  /* background: rgb(245, 242, 210); */
+  border-radius: 30px;
+  border: 0.5px solid rgb(190, 190, 190);
+  /* box-shadow: 5px 5px 2px 1px rgb(190, 190, 190); */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  /* transform: translate(0px, -8px); */
+}
+
+.project_thumbnail {
+  width: 100%;
+  height: 50%;
+  object-fit: cover;
+  border-radius: 30px 30px 0px 0px;
+}
+
+.hollang_padding {
+  margin-top: 10px;
+  margin-bottom: -10px;
+}
+
+.project_desc {
+  font-size: 12px;
+  line-height: 12px;
+}
+
+.project_title {
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.block_desc {
+  font-size: 13px;
+  margin-left: 5%;
+  color: rgba(0, 0, 0, 0.5);
+}
+
+b {
+  font-family: "NanumGothicB";
+}
+
+.stack-container {
+  margin-top: 12px;
+}
+
+.stack-desc {
+  font-size: 14px;
+}
+
+.sized-box {
+  height: 20px;
+}
+
+.stack-title {
+  text-decoration: underline;
+  text-underline-position: under;
+  margin-left: 12px;
+  margin-right: -12px;
+}
+
+.activities .content {
+  font-size: 14px;
+}
+
+.date {
+  font-size: 15px;
+  margin-left: 12px;
+  margin-right: -12px;
+}
+
+.awards .content {
+  font-size: 14px;
+}
+
+.certificate .content {
+  font-size: 14px;
+}
+
+.left-bar {
+  opacity: 0.5;
+}
