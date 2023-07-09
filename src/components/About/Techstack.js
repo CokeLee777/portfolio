@@ -1,11 +1,9 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiMysql,
   DiNodejs,
   DiMongodb,
-  DiPython,
   DiGit,
   DiJava,
 } from "react-icons/di";
@@ -13,13 +11,11 @@ import {
   SiKotlin,
   SiSpring,
   SiSpringboot,
-  SiRedis,
   SiFirebase,
   SiDocker,
   SiExpress,
   SiAmazonaws,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
