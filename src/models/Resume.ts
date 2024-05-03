@@ -5,6 +5,7 @@ import type { InfoItem } from './InfoItem';
 import type { Language } from './Language';
 import type { Profile } from './Profile';
 import type { Project } from './Project';
+import type {ExternalExperience} from "@/models/ExternalExperience";
 
 export interface Resume {
   profile: Profile;
@@ -13,7 +14,7 @@ export interface Resume {
   skill: string[];
   language: Language[];
   experience: Experience[];
-  externalExperience: Experience[];
+  externalExperience: ExternalExperience[];
   education: Education[];
   certificate: Certificate[];
   project: Project[];

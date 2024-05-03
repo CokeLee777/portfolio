@@ -1,6 +1,5 @@
 <script setup lang="ts">
 import {computed, ref} from 'vue';
-import ExperienceCardItem from './ExperienceCardItem.vue';
 import { useResumeStore } from '@/stores/ResumeStore';
 import { storeToRefs } from 'pinia';
 import MyPaginate from "@/components/MyPaginate.vue";
