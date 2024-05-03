@@ -1,0 +1,262 @@
+{
+  "profile": {
+    "name": "이채민",
+    "job": "소프트웨어 엔지니어",
+    "avatar": "img/profile/me.jpg",
+    "aboutMe": "내 소개",
+    "socialNetwork": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/CokeLee777"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/cokelee777"
+      },
+      {
+        "name": "Blog",
+        "url": "https://cokeprogrammer.tistory.com"
+      }
+    ]
+  },
+  "cv": {
+    "icon": "DocumentTextIcon",
+    "name": "PDF",
+    "value": "이채민 이력서",
+    "url": "https://drive.google.com/file/d/1Xe5GGe-2S4aapjjZCBIwm7Ne3XzUZ8CS/view?usp=sharing"
+  },
+  "information": [
+    {
+      "icon": "EnvelopeIcon",
+      "name": "이메일 주소",
+      "value": "akak640@naver.com"
+    },
+    {
+      "icon": "CakeIcon",
+      "name": "만 27세",
+      "value": "1997.01.21"
+    },
+    {
+      "icon": "DevicePhoneMobileIcon",
+      "name": "휴대폰 번호",
+      "value": "+82 010-5423-5638"
+    },
+    {
+      "icon": "ComputerDesktopIcon",
+      "name": "근무형태",
+      "value": "대면/비대면 풀타임 근무"
+    }
+  ],
+  "skill": [
+    "Java",
+    "JavaScript",
+    "Vue",
+    "Spring",
+    "Spring Boot",
+    "Docker",
+    "Kubernetes",
+    "Amazon AWS",
+    "GitHub Actions",
+    "MySQL"
+  ],
+  "language": [
+    {
+      "name": "한국어",
+      "code": "ko",
+      "flag": "svg/korea.svg",
+      "level": "모국어"
+    },
+    {
+      "name": "영어",
+      "code": "pt-BR",
+      "flag": "svg/united-states.svg",
+      "level": "초/중급"
+    }
+  ],
+  "experience": [
+    {
+      "job": "Software Engineer / 주문결제개발팀",
+      "company": "Lotte e-commerce(LOTTE ON)",
+      "companyLogo": "img/company/lotteon.jpg",
+      "location": "서울특별시 송파구 올림픽로 300, 26층",
+      "workType": "풀타임/대면",
+      "start": "2024.02",
+      "end": "현재",
+      "description": "클레임/고객센터 운영 및 개발<br/>AWS Athena -> Snowflake 전환 과제 수행"
+    },
+    {
+      "job": "채용연계형 교육생",
+      "company": "Lotte e-commerce(LOTTE ON)",
+      "companyLogo": "img/company/lotteon.jpg",
+      "location": "서울특별시 서초구 서초대로74길 33",
+      "workType": "풀타임/대면",
+      "start": "2023.08",
+      "end": "2024.01",
+      "description": "명품 버티컬 쇼핑몰 플랫폼 'DailyOn' 개발<br/>Java, Spring, Vue, AWS 등 풀스택 과정 수료"
+    }
+  ],
+  "externalExperience": [
+    {
+      "job": "Backend Developer",
+      "company": "ChatGPT MS Azurethon",
+      "companyLogo": "img/etc/microsoft.jpg",
+      "location": "서울특별시",
+      "workType": "비대면",
+      "start": "2023.04.18",
+      "end": "2023.04.24",
+      "description": "청년들을 위한 채팅기반 레터 작성 웹 서비스 'Umm...' 개발"
+    },
+    {
+      "job": "Backend Developer",
+      "company": "SWYG 5th",
+      "companyLogo": "img/etc/swyg.jpg",
+      "location": "서울특별시",
+      "workType": "비대면",
+      "start": "2023.01",
+      "end": "2023.03",
+      "description": "취미 성향 테스트를 통한 자신의 성향에 맞는 취미 추천 서비스 'Hollang' 개발"
+    },
+    {
+      "job": "Backend Developer",
+      "company": "9oormthon in JEJU 4th",
+      "companyLogo": "img/etc/9oormthon.jpg",
+      "location": "제주특별시",
+      "workType": "대면",
+      "start": "2022.12.13",
+      "end": "2022.12.16",
+      "description": "제주도민과 여행객을 연결하는 물물거래 웹 서비스 '멘도롱주멍' 개발"
+    },
+    {
+      "job": "Software Developer",
+      "company": "연세 세브란스 병원",
+      "companyLogo": "img/etc/severance.jpg",
+      "location": "경기도 용인시",
+      "workType": "대면",
+      "start": "2022.10",
+      "end": "2022.12",
+      "description": "파킨슨 환자에게 약 복용시간에 알람 및 특정 시간마다 약효에 대한 설문조사 알림을 해주는 갤럭시 워치 서비스 'Parkinson Diary' 개발"
+    },
+    {
+      "job": "Software Developer",
+      "company": "IT 스타트업 동아리 OMEGA",
+      "companyLogo": "img/etc/omega.jpg",
+      "location": "서울특별시",
+      "workType": "대면",
+      "start": "2022.08",
+      "end": "2022.10",
+      "description": "스텝센서를 이용한 발걸음 스트리밍 서비스 'CO-WALK' 개발"
+    },
+    {
+      "job": "Software Developer",
+      "company": "경기대학교 연합 IT 동아리 INQ",
+      "companyLogo": "img/etc/inq.jpg",
+      "location": "경기도 수원시",
+      "workType": "대면",
+      "start": "2022.07",
+      "end": "2022.09",
+      "description": "웹툰 3사(네이버 웹툰, 카카오 웹툰, 카카오 페이지)를 한꺼번에 볼 수 있는 OTT 서비스 'Webtoon-Moa' 개발"
+    },
+    {
+      "job": "Software Developer",
+      "company": "경기대학교 전자공학과 IT 동아리 EoN",
+      "companyLogo": "img/etc/eon.jpg",
+      "location": "경기도 수원시",
+      "workType": "대면",
+      "start": "2021.03",
+      "end": "2021.12",
+      "description": "시각장애인을 위한 편의점 음료안내 서비스 'BeYerage' 개발"
+    }
+  ],
+  "education": [
+    {
+      "college": "경기대학교",
+      "collegeLogo": "img/college/kyonggi.jpg",
+      "course": "전자공학 전공",
+      "start": "2016",
+      "end": "2022"
+    }
+  ],
+  "certificate": [
+    {
+      "course": "정보처리기사",
+      "school": "한국산업인력공단",
+      "schoolLogo": "img/certificate/hrdk.jpg",
+      "issueDate": "2022.02.23",
+      "expirationDate": "",
+      "credentialCode": "21203100420T",
+      "url": "https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320"
+    }
+  ],
+  "project": [
+    {
+      "name": "DailyOn",
+      "description": "명품 버티컬 쇼핑몰 플랫폼",
+      "language": "TypeScript & Vue | Java & Spring | Kubernetes | AWS",
+      "image": "img/project/dailyon.png",
+      "stars": "3",
+      "forks": "0",
+      "urls": [
+        "https://github.com/lotteon2/dailyon-infra",
+        "https://github.com/lotteon2/dailyon-sns-service",
+        "https://github.com/lotteon2/dailyon-frontend",
+        "https://github.com/lotteon2/dailyon-admin-frontend"
+      ]
+    },
+    {
+      "name": "Spring Security & JWT",
+      "description": "Spring Security & JWT 기반 인증 및 인가 모듈",
+      "language": "Java & Spring | Spring Security",
+      "image": "img/project/spring-security.png",
+      "stars": "3",
+      "forks": "0",
+      "urls": [
+        "https://github.com/CokeLee777/spring-security-jwt-auth"
+      ]
+    },
+    {
+      "name": "Umm...",
+      "description": "청년들을 위한 채팅기반 레터 작성 웹 서비스",
+      "language": "Python | AWS Lambda & API Gateway | ChatGPT",
+      "image": "img/project/umm.png",
+      "stars": "3",
+      "forks": "0",
+      "urls": [
+        "https://github.com/MOKY4/um-oh-ah-yeh-backend-lambda"
+      ]
+    },
+    {
+      "name": "Hollang",
+      "description": "취미 성향 테스트를 통한 자신의 성향에 맞는 취미 추천 서비스",
+      "language": "Kotlin & Spring | Python & Flask",
+      "image": "img/project/hollang.png",
+      "stars": "3",
+      "forks": "0",
+      "urls": [
+        "https://github.com/holllang/api_server",
+        "https://github.com/holllang/inferring_server"
+      ]
+    },
+    {
+      "name": "멘도롱주멍",
+      "description": "제주도민과 여행객을 연결하는 물물거래 웹 서비스",
+      "language": "TypeScript & Express.js",
+      "image": "img/project/mendolong.png",
+      "stars": "3",
+      "forks": "0",
+      "urls": [
+        "https://github.com/Levains-house/Levains-backend"
+      ]
+    },
+    {
+      "name": "Parkinson Diary",
+      "description": "파킨슨 환자에게 약 복용시간에 알람 및 특정 시간마다 약효에 대한 설문조사 알림을 해주는 갤럭시 워치 서비스",
+      "language": "Java & Spring | Android",
+      "image": "img/project/parkinson-diary.png",
+      "stars": "3",
+      "forks": "0",
+      "urls": [
+        "https://github.com/CokeLee777/Parkinson-Diary"
+      ]
+    }
+  ]
+}

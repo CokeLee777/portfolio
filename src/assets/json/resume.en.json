@@ -1,0 +1,262 @@
+{
+  "profile": {
+    "name": "Chaemin Lee",
+    "job": "Software Engineer",
+    "avatar": "img/profile/me.jpg",
+    "aboutMe": "Introduction about me",
+    "socialNetwork": [
+      {
+        "name": "GitHub",
+        "url": "https://github.com/CokeLee777"
+      },
+      {
+        "name": "LinkedIn",
+        "url": "https://www.linkedin.com/in/cokelee777"
+      },
+      {
+        "name": "Blog",
+        "url": "https://cokeprogrammer.tistory.com"
+      }
+    ]
+  },
+  "cv": {
+    "icon": "DocumentTextIcon",
+    "name": "PDF",
+    "value": "Lee Chaemin's Resume",
+    "url": "https://drive.google.com/file/d/1Xe5GGe-2S4aapjjZCBIwm7Ne3XzUZ8CS/view?usp=sharing"
+  },
+  "information": [
+    {
+      "icon": "EnvelopeIcon",
+      "name": "Email Address",
+      "value": "akak640@naver.com"
+    },
+    {
+      "icon": "CakeIcon",
+      "name": "Age",
+      "value": "27 (January 21, 1997)"
+    },
+    {
+      "icon": "DevicePhoneMobileIcon",
+      "name": "Phone Number",
+      "value": "+82 010-5423-5638"
+    },
+    {
+      "icon": "ComputerDesktopIcon",
+      "name": "Work Type",
+      "value": "Full-time, On-site/Remote"
+    }
+  ],
+  "skill": [
+    "Java",
+    "JavaScript",
+    "Vue",
+    "Spring",
+    "Spring Boot",
+    "Docker",
+    "Kubernetes",
+    "Amazon AWS",
+    "GitHub Actions",
+    "MySQL"
+  ],
+  "language": [
+    {
+      "name": "Korean",
+      "code": "ko",
+      "flag": "svg/korea.svg",
+      "level": "Native"
+    },
+    {
+      "name": "English",
+      "code": "pt-BR",
+      "flag": "svg/united-states.svg",
+      "level": "Basic/Intermediate"
+    }
+  ],
+  "experience": [
+    {
+      "job": "Software Engineer / Order Payment Development Team",
+      "company": "Lotte e-commerce(LOTTE ON)",
+      "companyLogo": "img/company/lotteon.jpg",
+      "location": "26F, 300, Olympic-ro, Songpa-gu, Seoul",
+      "workType": "Full-time/On-site",
+      "start": "2024.02",
+      "end": "Present",
+      "description": "Operation and development of claims/customer service<br/>Task to transition from AWS Athena to Snowflake"
+    },
+    {
+      "job": "Education-Linked Trainee",
+      "company": "Lotte e-commerce(LOTTE ON)",
+      "companyLogo": "img/company/lotteon.jpg",
+      "location": "33, Seocho-daero 74-gil, Seocho-gu, Seoul",
+      "workType": "Full-time/On-site",
+      "start": "2023.08",
+      "end": "2024.01",
+      "description": "Development of luxury vertical shopping mall platform 'DailyOn'<br/>Completed full-stack course including Java, Spring, Vue, AWS, etc."
+    }
+  ],
+  "externalExperience": [
+    {
+      "job": "Backend Developer",
+      "company": "ChatGPT MS Azurethon",
+      "companyLogo": "img/etc/microsoft.jpg",
+      "location": "Seoul",
+      "workType": "Remote",
+      "start": "2023.04.18",
+      "end": "2023.04.24",
+      "description": "Developed a chat-based letter writing web service 'Umm...' for youth"
+    },
+    {
+      "job": "Backend Developer",
+      "company": "SWYG 5th",
+      "companyLogo": "img/etc/swyg.jpg",
+      "location": "Seoul",
+      "workType": "Remote",
+      "start": "2023.01",
+      "end": "2023.03",
+      "description": "Developed 'Hollang,' a hobby recommendation service based on hobby inclination tests"
+    },
+    {
+      "job": "Backend Developer",
+      "company": "9oormthon in JEJU 4th",
+      "companyLogo": "img/etc/9oormthon.jpg",
+      "location": "Jeju",
+      "workType": "On-site",
+      "start": "2022.12.13",
+      "end": "2022.12.16",
+      "description": "Developed 'Mendolongjumeong,' a web service connecting Jeju residents and travelers for goods exchange"
+    },
+    {
+      "job": "Software Developer",
+      "company": "Yonsei Severance Hospital",
+      "companyLogo": "img/etc/severance.jpg",
+      "location": "Yongin, Gyeonggi-do",
+      "workType": "On-site",
+      "start": "2022.10",
+      "end": "2022.12",
+      "description": "Developed 'Parkinson Diary,' a Galaxy Watch service providing medication alarms and survey notifications for Parkinson's patients"
+    },
+    {
+      "job": "Software Developer",
+      "company": "IT Startup Club OMEGA",
+      "companyLogo": "img/etc/omega.jpg",
+      "location": "Seoul",
+      "workType": "On-site",
+      "start": "2022.08",
+      "end": "2022.10",
+      "description": "Developed 'CO-WALK,' a streaming service for footsteps using step sensors"
+    },
+    {
+      "job": "Software Developer",
+      "company": "INQ, IT Club at Kyonggi University",
+      "companyLogo": "img/etc/inq.jpg",
+      "location": "Suwon, Gyeonggi-do",
+      "workType": "On-site",
+      "start": "2022.07",
+      "end": "2022.09",
+      "description": "Developed 'Webtoon-Moa,' an OTT service where you can view webtoons from Naver Webtoon, Kakao Webtoon, and Kakao Page simultaneously"
+    },
+    {
+      "job": "Software Developer",
+      "company": "EoN, Electronics Engineering IT Club at Kyonggi University",
+      "companyLogo": "img/etc/eon.jpg",
+      "location": "Suwon, Gyeonggi-do",
+      "workType": "On-site",
+      "start": "2021.03",
+      "end": "2021.12",
+      "description": "Developed 'BeYerage,' a convenience store beverage guide service for visually impaired individuals"
+    }
+  ],
+  "education": [
+    {
+      "college": "Kyonggi University",
+      "collegeLogo": "img/college/kyonggi.jpg",
+      "course": "Major in Electronic Engineering",
+      "start": "2016",
+      "end": "2022"
+    }
+  ],
+  "certificate": [
+    {
+      "course": "Information Processing Engineer",
+      "school": "Korea Industrial Training Association",
+      "schoolLogo": "img/certificate/hrdk.jpg",
+      "issueDate": "2022.02.23",
+      "expirationDate": "",
+      "credentialCode": "21203100420T",
+      "url": "https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320"
+    }
+  ],
+  "project": [
+    {
+      "name": "DailyOn",
+      "description": "Luxury Vertical Shopping Mall Platform",
+      "language": "TypeScript & Vue | Java & Spring | Kubernetes | AWS",
+      "image": "img/project/dailyon.png",
+      "stars": "3",
+      "forks": "0",
+      "urls": [
+        "https://github.com/lotteon2/dailyon-infra",
+        "https://github.com/lotteon2/dailyon-sns-service",
+        "https://github.com/lotteon2/dailyon-frontend",
+        "https://github.com/lotteon2/dailyon-admin-frontend"
+      ]
+    },
+    {
+      "name": "Spring Security & JWT",
+      "description": "Authentication and Authorization Module based on Spring Security & JWT",
+      "language": "Java & Spring | Spring Security",
+      "image": "img/project/spring-security.png",
+      "stars": "3",
+      "forks": "0",
+      "urls": [
+        "https://github.com/CokeLee777/spring-security-jwt-auth"
+      ]
+    },
+    {
+      "name": "Umm...",
+      "description": "Chat-based Letter Writing Web Service for Youth",
+      "language": "Python | AWS Lambda & API Gateway | ChatGPT",
+      "image": "img/project/umm.png",
+      "stars": "3",
+      "forks": "0",
+      "urls": [
+        "https://github.com/MOKY4/um-oh-ah-yeh-backend-lambda"
+      ]
+    },
+    {
+      "name": "Hollang",
+      "description": "Hobby Recommendation Service based on Hobby Inclination Test",
+      "language": "Kotlin & Spring | Python & Flask",
+      "image": "img/project/hollang.png",
+      "stars": "3",
+      "forks": "0",
+      "urls": [
+        "https://github.com/holllang/api_server",
+        "https://github.com/holllang/inferring_server"
+      ]
+    },
+    {
+      "name": "Mendolongjumeong",
+      "description": "Web Service Connecting Jeju Residents and Travelers for Goods Exchange",
+      "language": "TypeScript & Express.js",
+      "image": "img/project/mendolong.png",
+      "stars": "3",
+      "forks": "0",
+      "urls": [
+        "https://github.com/Levains-house/Levains-backend"
+      ]
+    },
+    {
+      "name": "Parkinson Diary",
+      "description": "Galaxy Watch Service providing medication alarms and survey notifications for Parkinson's patients",
+      "language": "Java & Spring | Android",
+      "image": "img/project/parkinson-diary.png",
+      "stars": "3",
+      "forks": "0",
+      "urls": [
+        "https://github.com/CokeLee777/Parkinson-Diary"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "resume": "이력서",
+  "information": "연락처",
+  "skills": "기술스택",
+  "language": "언어",
+  "about": "내 소개",
+  "experience": "이력",
+  "externalExperience": "외부활동",
+  "education": "교육",
+  "license": "자격증",
+  "project": "프로젝트",
+  "credential": "바로가기",
+  "credential_code": "자격증 등록번호:",
+  "settings": {
+    "title": "환경설정",
+    "theme": "테마",
+    "dark_mode": "다크모드 여부",
+    "ko": "한국어",
+    "en": "영어"
+  },
+  "menu": {
+    "experience": "경험",
+    "education": "교육/자격증",
+    "project": "프로젝트"
+  },
+  "paginate": {
+    "count": "결과 {total}개 중 {first}~{last}개 표시",
+    "previous_page": "이전 페이지",
+    "next_page": "다음 페이지",
+    "first_page": "처음 페이지",
+    "last_page": "마지막 페이지"
+  }
+}
