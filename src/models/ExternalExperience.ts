@@ -1,4 +1,4 @@
-export interface Experience {
+export interface ExternalExperience {
   job: string;
   company: string;
   companyLogo: string;
@@ -6,5 +6,5 @@ export interface Experience {
   workType: string;
   start: string;
   end?: string;
-  descriptions: string[];
+  description: string;
 }

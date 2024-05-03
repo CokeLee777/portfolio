@@ -84,7 +84,10 @@
       "workType": "풀타임/대면",
       "start": "2024.02",
       "end": "현재",
-      "description": "클레임/고객센터 운영 및 개발<br/>AWS Athena -> Snowflake 전환 과제 수행"
+      "descriptions": [
+        "클레임/고객센터 운영 및 개발",
+        "AWS Athena -> Snowflake 전환 과제 수행"
+      ]
     },
     {
       "job": "채용연계형 교육생",
@@ -94,7 +97,10 @@
       "workType": "풀타임/대면",
       "start": "2023.08",
       "end": "2024.01",
-      "description": "명품 버티컬 쇼핑몰 플랫폼 'DailyOn' 개발<br/>Java, Spring, Vue, AWS 등 풀스택 과정 수료"
+      "descriptions": [
+        "명품 버티컬 쇼핑몰 플랫폼 'DailyOn' 개발",
+        "Java, Spring, Vue, AWS 등 풀스택 교육 과정 수료"
+      ]
     }
   ],
   "externalExperience": [

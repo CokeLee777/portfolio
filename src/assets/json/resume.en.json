@@ -84,7 +84,10 @@
       "workType": "Full-time/On-site",
       "start": "2024.02",
       "end": "Present",
-      "description": "Operation and development of claims/customer service<br/>Task to transition from AWS Athena to Snowflake"
+      "descriptions": [
+        "Operation and development of claims/customer service",
+        "Task to transition from AWS Athena to Snowflake"
+      ]
     },
     {
       "job": "Education-Linked Trainee",
@@ -94,7 +97,10 @@
       "workType": "Full-time/On-site",
       "start": "2023.08",
       "end": "2024.01",
-      "description": "Development of luxury vertical shopping mall platform 'DailyOn'<br/>Completed full-stack course including Java, Spring, Vue, AWS, etc."
+      "descriptions": [
+        "Development of luxury vertical shopping mall platform 'DailyOn'",
+        "Completed full-stack course including Java, Spring, Vue, AWS, etc."
+      ]
     }
   ],
   "externalExperience": [

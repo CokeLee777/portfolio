@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import type { Experience } from '@/models/Experience';
 import HeroIcon from './HeroIcon.vue';
-import { getImagePath } from '@/helpers/Helper';
+import {getImagePath} from '@/helpers/Helper';
+import type {ExternalExperience} from "@/models/ExternalExperience";
 
-defineProps<{ item: Experience; separator: boolean }>();
+defineProps<{ item: ExternalExperience; separator: boolean }>();
 </script>
 
 <template>
@@ -12,7 +12,7 @@ defineProps<{ item: Experience; separator: boolean }>();
       :src="getImagePath(item.companyLogo)"
       alt="Avatar"
       class="h-14 w-14 shrink-0 rounded-xl border-2 border-gray-50 shadow-sm dark:border-night-700" />
-    <div class="ml-3 w-full space-y-1.5">
+    <div class="ml-3 w-full space-y-5">
       <div class="justify-between sm:flex">
         <div class="space-y-2">
           <div class="font-medium dark:text-night-50">{{ item.job }}</div>
@@ -38,9 +38,7 @@ defineProps<{ item: Experience; separator: boolean }>();
           </div>
         </div>
       </div>
-      <ul v-for="description in item.descriptions">
-        <li class="text-sm text-gray-600 dark:text-night-300 list-disc" v-html="description"></li>
-      </ul>
+      <p class="text-sm text-gray-600 dark:text-night-300 list-disc" v-html="item.description"></p>
       <div v-if="separator" class="border-b border-dashed border-gray-200 dark:border-night-600"></div>
     </div>
   </div>
