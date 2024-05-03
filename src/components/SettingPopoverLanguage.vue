@@ -8,7 +8,7 @@ import { getImagePath } from '@/helpers/Helper';
 import type { Language } from '@/models/Language';
 
 const languages: Language[] = [
-  { name: 'settings.ko', code: 'ko', flag: 'svg/korea.svg' },
+  { name: 'settings.ko', code: 'ko', flag: 'svg/south-korea.svg' },
   { name: 'settings.en', code: 'en-US', flag: 'svg/united-states.svg' },
 ];
 
