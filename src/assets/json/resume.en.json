@@ -3,7 +3,7 @@
     "name": "Chaemin Lee",
     "job": "Software Engineer",
     "avatar": "img/profile/me.jpg",
-    "aboutMe": "Introduction about me",
+    "aboutMe": "\nHello! \uD83D\uDC4B I'm Lee Chaemin, a determined developer who never gives up. I'm continuously learning and growing through consistent side projects to achieve steady progress.",
     "socialNetwork": [
       {
         "name": "GitHub",
@@ -57,7 +57,9 @@
     "Kubernetes",
     "Amazon AWS",
     "GitHub Actions",
-    "MySQL"
+    "MySQL",
+    "Apache Kafka",
+    "Redis"
   ],
   "language": [
     {
@@ -193,8 +195,8 @@
       "description": "Luxury Vertical Shopping Mall Platform",
       "language": "TypeScript & Vue | Java & Spring | Kubernetes | AWS",
       "image": "img/project/dailyon.png",
-      "stars": "3",
-      "forks": "0",
+      "stars": "",
+      "forks": "",
       "urls": [
         "https://github.com/lotteon2/dailyon-infra",
         "https://github.com/lotteon2/dailyon-sns-service",
@@ -207,8 +209,8 @@
       "description": "Authentication and Authorization Module based on Spring Security & JWT",
       "language": "Java & Spring | Spring Security",
       "image": "img/project/spring-security.png",
-      "stars": "3",
-      "forks": "0",
+      "stars": "",
+      "forks": "",
       "urls": [
         "https://github.com/CokeLee777/spring-security-jwt-auth"
       ]
@@ -218,8 +220,8 @@
       "description": "Chat-based Letter Writing Web Service for Youth",
       "language": "Python | AWS Lambda & API Gateway | ChatGPT",
       "image": "img/project/umm.png",
-      "stars": "3",
-      "forks": "0",
+      "stars": "",
+      "forks": "",
       "urls": [
         "https://github.com/MOKY4/um-oh-ah-yeh-backend-lambda"
       ]
@@ -229,8 +231,8 @@
       "description": "Hobby Recommendation Service based on Hobby Inclination Test",
       "language": "Kotlin & Spring | Python & Flask",
       "image": "img/project/hollang.png",
-      "stars": "3",
-      "forks": "0",
+      "stars": "",
+      "forks": "",
       "urls": [
         "https://github.com/holllang/api_server",
         "https://github.com/holllang/inferring_server"
@@ -241,8 +243,8 @@
       "description": "Web Service Connecting Jeju Residents and Travelers for Goods Exchange",
       "language": "TypeScript & Express.js",
       "image": "img/project/mendolong.png",
-      "stars": "3",
-      "forks": "0",
+      "stars": "",
+      "forks": "",
       "urls": [
         "https://github.com/Levains-house/Levains-backend"
       ]
@@ -252,8 +254,8 @@
       "description": "Galaxy Watch Service providing medication alarms and survey notifications for Parkinson's patients",
       "language": "Java & Spring | Android",
       "image": "img/project/parkinson-diary.png",
-      "stars": "3",
-      "forks": "0",
+      "stars": "",
+      "forks": "",
       "urls": [
         "https://github.com/CokeLee777/Parkinson-Diary"
       ]

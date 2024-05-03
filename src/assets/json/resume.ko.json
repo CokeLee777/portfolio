@@ -3,7 +3,7 @@
     "name": "이채민",
     "job": "소프트웨어 엔지니어",
     "avatar": "img/profile/me.jpg",
-    "aboutMe": "내 소개",
+    "aboutMe": "안녕하세요! 👋 포기를 모르는 개발자 이채민입니다. 꾸준한 성장을 위해 지속적으로 사이드 프로젝트를 통해서 학습한 내용을 체득하며 성장하고 있습니다.",
     "socialNetwork": [
       {
         "name": "GitHub",
@@ -57,7 +57,9 @@
     "Kubernetes",
     "Amazon AWS",
     "GitHub Actions",
-    "MySQL"
+    "MySQL",
+    "Apache Kafka",
+    "Redis"
   ],
   "language": [
     {
@@ -193,8 +195,8 @@
       "description": "명품 버티컬 쇼핑몰 플랫폼",
       "language": "TypeScript & Vue | Java & Spring | Kubernetes | AWS",
       "image": "img/project/dailyon.png",
-      "stars": "3",
-      "forks": "0",
+      "stars": "",
+      "forks": "",
       "urls": [
         "https://github.com/lotteon2/dailyon-infra",
         "https://github.com/lotteon2/dailyon-sns-service",
@@ -207,8 +209,8 @@
       "description": "Spring Security & JWT 기반 인증 및 인가 모듈",
       "language": "Java & Spring | Spring Security",
       "image": "img/project/spring-security.png",
-      "stars": "3",
-      "forks": "0",
+      "stars": "",
+      "forks": "",
       "urls": [
         "https://github.com/CokeLee777/spring-security-jwt-auth"
       ]
@@ -218,8 +220,8 @@
       "description": "청년들을 위한 채팅기반 레터 작성 웹 서비스",
       "language": "Python | AWS Lambda & API Gateway | ChatGPT",
       "image": "img/project/umm.png",
-      "stars": "3",
-      "forks": "0",
+      "stars": "",
+      "forks": "",
       "urls": [
         "https://github.com/MOKY4/um-oh-ah-yeh-backend-lambda"
       ]
@@ -229,8 +231,8 @@
       "description": "취미 성향 테스트를 통한 자신의 성향에 맞는 취미 추천 서비스",
       "language": "Kotlin & Spring | Python & Flask",
       "image": "img/project/hollang.png",
-      "stars": "3",
-      "forks": "0",
+      "stars": "",
+      "forks": "",
       "urls": [
         "https://github.com/holllang/api_server",
         "https://github.com/holllang/inferring_server"
@@ -241,8 +243,8 @@
       "description": "제주도민과 여행객을 연결하는 물물거래 웹 서비스",
       "language": "TypeScript & Express.js",
       "image": "img/project/mendolong.png",
-      "stars": "3",
-      "forks": "0",
+      "stars": "",
+      "forks": "",
       "urls": [
         "https://github.com/Levains-house/Levains-backend"
       ]
@@ -252,8 +254,8 @@
       "description": "파킨슨 환자에게 약 복용시간에 알람 및 특정 시간마다 약효에 대한 설문조사 알림을 해주는 갤럭시 워치 서비스",
       "language": "Java & Spring | Android",
       "image": "img/project/parkinson-diary.png",
-      "stars": "3",
-      "forks": "0",
+      "stars": "",
+      "forks": "",
       "urls": [
         "https://github.com/CokeLee777/Parkinson-Diary"
       ]

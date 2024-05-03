@@ -10,7 +10,7 @@
   "license": "Licenses and Certificates",
   "project": "Projects",
   "credential": "Credential",
-  "credential_code": "Credential Code",
+  "credential_code": "Credential Code:",
   "settings": {
     "title": "Settings",
     "theme": "Theme",
