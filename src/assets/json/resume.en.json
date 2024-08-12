@@ -23,7 +23,7 @@
     "icon": "DocumentTextIcon",
     "name": "PDF",
     "value": "Lee Chaemin's Resume",
-    "url": "https://drive.google.com/file/d/1Xe5GGe-2S4aapjjZCBIwm7Ne3XzUZ8CS/view?usp=sharing"
+    "url": "https://docs.google.com/document/d/1vuk9ma-IYlaJyDe_PpykHeaW4fIfY4IP7QEISq0GZSY/edit?usp=sharing"
   },
   "information": [
     {
@@ -86,7 +86,10 @@
       "end": "Present",
       "descriptions": [
         "Operation and development of claims/customer service",
-        "Task to transition from AWS Athena to Snowflake"
+        "Establishment of Automatic Monitoring and Notification System for Customer Service",
+        "Query Tuning for Full Scan of Pre-Processing VOC Batch in Customer Service",
+        "Migration Project from AWS Athena to Snowflake",
+        "Analysis and Troubleshooting of Commit Errors Due to Kafka Consumer Rebalancing & DynamoDB Duplicated Key Errors"
       ]
     },
     {
@@ -185,6 +188,15 @@
     }
   ],
   "certificate": [
+    {
+      "course": "AWS Certified Developer - Associate",
+      "school": "Amazon Web Services Training and Certification",
+      "schoolLogo": "img/certificate/aws-certified-developer-associate.png",
+      "issueDate": "2024.08.08",
+      "expirationDate": "2027.08.08",
+      "credentialCode": "2749cfb53c2c4072a605d8f53de1ff51",
+      "url": "https://www.credly.com/badges/937c9ec2-6acd-4697-87e4-26e7bba09981/public_url"
+    },
     {
       "course": "Information Processing Engineer",
       "school": "Korea Industrial Training Association",

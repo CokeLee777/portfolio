@@ -23,7 +23,7 @@
     "icon": "DocumentTextIcon",
     "name": "PDF",
     "value": "이채민 이력서",
-    "url": "https://drive.google.com/file/d/1Xe5GGe-2S4aapjjZCBIwm7Ne3XzUZ8CS/view?usp=sharing"
+    "url": "https://docs.google.com/document/d/1vuk9ma-IYlaJyDe_PpykHeaW4fIfY4IP7QEISq0GZSY/edit?usp=sharing"
   },
   "information": [
     {
@@ -86,7 +86,10 @@
       "end": "현재",
       "descriptions": [
         "클레임/고객센터 운영 및 개발",
-        "AWS Athena -> Snowflake 전환 과제 수행"
+        "고객센터 자동 모니터링 및 알림 시스템 구축",
+        "고객센터 VOC 기처리 배치 풀스캔 쿼리 튜닝",
+        "AWS Athena -> Snowflake 전환 과제 수행",
+        "Kafka Consumer 리밸런싱으로 인한 Commit error & DynamoDB Duplicated Key error 분석 및 트러블 슈팅"
       ]
     },
     {
@@ -185,6 +188,15 @@
     }
   ],
   "certificate": [
+    {
+      "course": "AWS Certified Developer - Associate",
+      "school": "Amazon Web Services Training and Certification",
+      "schoolLogo": "img/certificate/aws-certified-developer-associate.png",
+      "issueDate": "2024.08.08",
+      "expirationDate": "2027.08.08",
+      "credentialCode": "2749cfb53c2c4072a605d8f53de1ff51",
+      "url": "https://www.credly.com/badges/937c9ec2-6acd-4697-87e4-26e7bba09981/public_url"
+    },
     {
       "course": "정보처리기사",
       "school": "한국산업인력공단",
