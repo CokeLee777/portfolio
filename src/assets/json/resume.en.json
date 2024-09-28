@@ -89,7 +89,9 @@
         "Establishment of Automatic Monitoring and Notification System for Customer Service",
         "Query Tuning for Full Scan of Pre-Processing VOC Batch in Customer Service",
         "Migration Project from AWS Athena to Snowflake",
-        "Analysis and Troubleshooting of Commit Errors Due to Kafka Consumer Rebalancing & DynamoDB Duplicated Key Errors"
+        "Analysis and Troubleshooting of Commit Errors Due to Kafka Consumer Rebalancing & DynamoDB Duplicated Key Errors",
+        "Building an Integrated Claim CS Support Program",
+        "Carrying Out the Task of Transitioning the Chat Solution Pipeline (from RabbitMQ to Kafka)"
       ]
     },
     {
@@ -188,6 +190,15 @@
     }
   ],
   "certificate": [
+    {
+      "course": "Certified Kubernetes Administrator(CKA)",
+      "school": "Cloud Native Computing Foundation(CNCF)",
+      "schoolLogo": "img/certificate/CKA-Certified-Badge.png",
+      "issueDate": "2024.09.27",
+      "expirationDate": "2026.09.27",
+      "credentialCode": "LF-vyyn3zdsz0",
+      "url": "https://www.credly.com/badges/769c7425-7046-4409-ae43-a330584332db/public_url"
+    },
     {
       "course": "AWS Certified Developer - Associate",
       "school": "Amazon Web Services Training and Certification",

@@ -89,7 +89,9 @@
         "고객센터 자동 모니터링 및 알림 시스템 구축",
         "고객센터 VOC 기처리 배치 풀스캔 쿼리 튜닝",
         "AWS Athena -> Snowflake 전환 과제 수행",
-        "Kafka Consumer 리밸런싱으로 인한 Commit error & DynamoDB Duplicated Key error 분석 및 트러블 슈팅"
+        "Kafka Consumer 리밸런싱으로 인한 Commit error & DynamoDB Duplicated Key error 분석 및 트러블 슈팅",
+        "클레임 통합 CS 지원 프로그램 구축",
+        "채팅 솔루션 파이프라인 전환(RabbitMQ -> Kakfa) 과제 수행"
       ]
     },
     {
@@ -188,6 +190,15 @@
     }
   ],
   "certificate": [
+    {
+      "course": "Certified Kubernetes Administrator(CKA)",
+      "school": "Cloud Native Computing Foundation(CNCF)",
+      "schoolLogo": "img/certificate/CKA-Certified-Badge.png",
+      "issueDate": "2024.09.27",
+      "expirationDate": "2026.09.27",
+      "credentialCode": "LF-vyyn3zdsz0",
+      "url": "https://www.credly.com/badges/769c7425-7046-4409-ae43-a330584332db/public_url"
+    },
     {
       "course": "AWS Certified Developer - Associate",
       "school": "Amazon Web Services Training and Certification",
