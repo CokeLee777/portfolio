@@ -91,7 +91,8 @@
         "Migration Project from AWS Athena to Snowflake",
         "Analysis and Troubleshooting of Commit Errors Due to Kafka Consumer Rebalancing & DynamoDB Duplicated Key Errors",
         "Building an Integrated Claim CS Support Program",
-        "Carrying Out the Task of Transitioning the Chat Solution Pipeline (from RabbitMQ to Kafka)"
+        "Carrying Out the Task of Transitioning the Chat Solution Pipeline (from RabbitMQ to Kafka)",
+        "Development of a Real-Time Error Notification System Using AOP and Redis, and an AOP-Based Customer Service History Management System"
       ]
     },
     {
